@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background: #415e9b;
+    height: 82px;
+    border-bottom: 1px #133783;
+}
